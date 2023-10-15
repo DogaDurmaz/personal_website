@@ -2,6 +2,6 @@ In this project my goal is create a  basic personal website using HTML and CSS w
 
 
 You can see the below some screen images
-<img src="example/ornek1.png" width="100"height="10">
+<img src="example/ornek1.png" width="100" height="10">
 <img src= "example/ornek2.png" width="100" height="10" >
 
